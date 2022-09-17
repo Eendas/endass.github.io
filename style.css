@@ -1,3 +1,75 @@
 body {
-    background-color: lightgray;
+    background-color: gray;
 }
+
+.header::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.con {
+    background: #99660000;
+    height: 250px;
+    width: 60%;
+}
+
+.header {
+    background-color: #333333;
+    float: right;
+    height: 200px;
+    position: relative;
+    width: 400px;
+    border-radius: 50px;
+}
+
+.header img {
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 90%;
+}
+
+.down {
+    background-color: #333333;
+    margin: auto;
+    height: 200px;
+    position: relative;
+    width: 400px;
+    border-radius: 30px;
+}
+
+.downloads {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.dTitle {
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+a:link {
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: lightseagreen;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(108, 195, 224);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
