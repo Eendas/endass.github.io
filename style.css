@@ -57,19 +57,33 @@ a:link {
     color: lightblue;
     background-color: transparent;
     text-decoration: none;
-  }
-  a:visited {
+}
+a:visited {
     color: lightseagreen;
     background-color: transparent;
     text-decoration: none;
-  }
-  a:hover {
+}
+a:hover {
     color: rgb(108, 195, 224);
     background-color: transparent;
     text-decoration: underline;
-  }
-  a:active {
+}
+a:active {
     color: blue;
     background-color: transparent;
     text-decoration: underline;
+}
+
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 10px;
   }
