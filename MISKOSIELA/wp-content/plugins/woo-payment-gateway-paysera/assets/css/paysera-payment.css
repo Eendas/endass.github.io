@@ -1,0 +1,86 @@
+#paysera_country {
+    background: white;
+    padding: 0 6px 0 12px;
+}
+
+div.payment-group-title {
+    font-weight:bold;
+    clear: both;
+}
+
+div.paysera-payments div.paysera-payment-method {
+    margin-bottom: 15px;
+}
+
+div.paysera-payments.grid div.paysera-payment-method {
+    display: inline-block;
+    border: 2px outset transparent;
+    padding: 12px 10px 6px 10px;
+    text-align: center;
+}
+
+.paysera-payment-active {
+    border-color: #e7ebff !important;
+}
+
+.paysera-payment-method-label {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px;
+    width: 100%;
+    border: 2px outset transparent;
+}
+
+.paysera-payment-method-label input {
+    margin: 5px;
+}
+
+div.paysera-payments.grid .paysera-payment-method-label {
+    display:block;
+}
+
+div.paysera-payments span.paysera-text {
+    font-weight: normal;
+}
+
+div.paysera-payments.grid input[type=radio] {
+    margin-right: 6px;
+}
+
+div.paysera-payments.grid span.paysera-text {
+    display: block;
+}
+
+div.paysera-payments.grid div.paysera-image {
+    display:inline-block;
+}
+
+.paysera-button {
+    color: #2c3338 !important;
+    border-color: #8c8f94 !important;
+    width: 85px;
+    text-align: center;
+    background-color: #fff !important;
+    margin-right: 5px !important;
+}
+
+.paysera-button-active {
+    border-color: #2271b1 !important;
+    color: #2271b1 !important;
+}
+
+.paysera-button:hover {
+    color: #2271b1 !important;
+}
+
+label[for='payment_method_paysera'] img {
+    height: 24px;
+    max-width: 36px;
+}
+
+.paysera-notice-dismiss {
+    text-decoration: none !important;
+    position: static;
+    float: right;
+    padding: 0 15px 10px 28px;
+}

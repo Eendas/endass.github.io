@@ -1,0 +1,120 @@
+.paysera-delivery-about-container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.paysera-delivery-about-container p {
+    font-size: 14px;
+}
+
+.paysera-delivery-about-container h1 {
+    margin-top: 50px;
+}
+
+.paysera-delivery-about-container ul {
+    list-style: initial;
+    margin-left: 15px;
+}
+
+.paysera-delivery-inline-container-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.paysera-delivery-inline-container {
+    width: 49%;
+}
+
+.paysera-delivery-logo-container {
+    text-align:center;
+}
+
+.paysera-delivery-settings-logo {
+    width: 150px;
+    height: 100px;
+    padding-left: 8px;
+}
+
+.paysera-delivery-list-row {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #DDDDDD;
+}
+
+.paysera-delivery-list-col {
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+.paysera-delivery-gateway-title {
+    text-align: center;
+}
+
+.paysera-delivery-terminal {
+    padding-bottom: 20px;
+    display: none;
+}
+
+.paysera-delivery-extra-description {
+    margin-top: 5px;
+}
+
+.paysera-delivery-error-link {
+    color: #a00;
+    cursor: default;
+    pointer-events: none;
+}
+
+.paysera-delivery-terminal .select2-container {
+    width: 100% !important;
+}
+
+.paysera-delivery-terminal-city {
+    display: none;
+}
+
+.paysera-delivery-terminal-location {
+    display: none;
+}
+
+.paysera-settings .form-table {
+    margin: 20px 10px 0 10px;
+}
+
+.paysera-settings .submit {
+    margin-left: 10px;
+}
+
+.paysera-settings .paysera-settings-input {
+    width: 300px;
+}
+
+.paysera-delivery-gateways-list th {
+    display: none;
+}
+
+.paysera-settings {
+    overflow: hidden;
+}
+
+.paysera-delivery-required {
+    color: #b22222;
+}
+
+.paysera-delivery-checkout-logo {
+    max-width: 100px !important;
+}
+
+.paysera-delivery-small-paragraph {
+    line-height: 0.7;
+}
+
+.paysera-delivery-error {
+    color: #a00;
+    margin-bottom: 0;
+}

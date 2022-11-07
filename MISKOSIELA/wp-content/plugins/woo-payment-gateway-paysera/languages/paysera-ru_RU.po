@@ -1,0 +1,440 @@
+# Copyright (C) 2021 Paysera Payment And Delivery
+msgid ""
+msgstr ""
+"Project-Id-Version: Paysera Payment And Delivery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-21 10:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-02-18 15:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9"
+
+msgid "Method title"
+msgstr "Название способа доставки"
+
+msgid "This controls the title which the user sees during shipping selection."
+msgstr ""
+"Этот выбор контролирует название, которое клиент будет видеть при выборе ."
+"доставки"
+
+msgid "Delivery Fee"
+msgstr "Цена доставки"
+
+msgid "Minimum weight"
+msgstr "Минимальный вес"
+
+msgid "Maximum weight"
+msgstr "Максимальный вес"
+
+msgid "Kilograms"
+msgstr "В килограммах"
+
+msgid "Preferred pickup type"
+msgstr "Желаемый способ забора"
+
+msgid "Courier"
+msgstr "Курьер"
+
+msgid "Parcel locker"
+msgstr "Почтомат"
+
+msgid "Minimum order amount for free shipping"
+msgstr "Минимальная сумма заказа для бесплатной доставки"
+
+msgid "Users will need to spend this amount to get free shipping."
+msgstr ""
+"Чтобы доставка была бесплатной, покупатель должен будет потратить указанную "
+"сумму."
+
+msgid "%s courier will deliver the parcel right to the customer's hands."
+msgstr "Курьер %s передаст вашу посылку клиенту лично в руки."
+
+msgid ""
+"%s courier will deliver the parcel to the selected parcel terminal for "
+"customer to pickup any time."
+msgstr "Курьер %s доставит вашу посылку в выбранный почтомат."
+
+msgid "Allowed weight:"
+msgstr "Возможный вес:"
+
+msgid "Delivery Fee:"
+msgstr "Цена доставки:"
+
+msgid "Preferred pickup type:"
+msgstr "Желаемый способ забора:"
+
+msgid "Documentation"
+msgstr "Документация"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "WooCommerce is not active"
+msgstr "Плагин WooCommerce не активен"
+
+msgid "Paysera: Delivery order created - %s"
+msgstr "Paysera: Заказ на доставку создан - %s"
+
+msgid "About"
+msgstr "О"
+
+msgid "Delivery"
+msgstr "Доставка"
+
+msgid "Payments"
+msgstr "Платежи"
+
+msgid "Project ID"
+msgstr "ID проекта"
+
+msgid "Project password"
+msgstr "Пароль проекта"
+
+msgid "Test mode"
+msgstr "Тестовый режим"
+
+msgid "House number field"
+msgstr "Поле номера дома"
+
+msgid "Either project id or project password is incorrect"
+msgstr "Неверный ID проекта или пароль проекта"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Disabled"
+msgstr "Выключено"
+
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+msgid "Delivery Gateway List"
+msgstr "Список служб доставки"
+
+msgid "Shipping zones"
+msgstr "Зоны доставки"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Disable"
+msgstr "Выключить"
+
+msgid "House Number"
+msgstr "Номер дома"
+
+msgid "Please select the terminal location"
+msgstr "Пожалуйста, выберите адрес почтомата"
+
+msgid "Please select the city/municipality"
+msgstr "Пожалуйста, выберите город / муниципалитет почтомата"
+
+msgid "Sorry, %d kg exceeds the maximum weight of %d kg for %s"
+msgstr "К сожалению, %d кг это больше максимального веса %d кг - %s"
+
+msgid "Sorry, %d kg is not enough for the minimum weight of %d kg for %s"
+msgstr "К сожалению, %d кг это меньше минимального веса %d кг - %s"
+
+msgid "Terminal country"
+msgstr "Страна почтомата"
+
+msgid "Terminal city"
+msgstr "Город почтомата"
+
+msgid "Terminal location"
+msgstr "Место почтомата"
+
+msgid "Please select the country"
+msgstr "Пожалуйста, выберите страну"
+
+msgid "About Paysera"
+msgstr "О Paysera"
+
+msgid ""
+"%s is a global fintech company providing financial and related services to "
+"clients from all over the world since 2004."
+msgstr ""
+"%s является глобальной компанией в области финансовых технологий и \"\n"
+"\"предоставляет услуги клиентам по всему миру с 2004 г."
+
+msgid "https://www.paysera.com/v2/en-GB/paysera-account"
+msgstr "https://www.paysera.com/v2/ru-RU/platezhnyj-schet-paysera"
+
+msgid "Getting started"
+msgstr "С чего начать"
+
+msgid ""
+"In order to receive full benefits of both Paysera Payment and Delivery "
+"plugins, please use the outlined links to access our detailed how-to "
+"instructions."
+msgstr ""
+"Чтобы начать пользоваться всеми преимуществами Paysera Checkout и плагинов "
+"интегрированной услуги доставки, воспользуйтесь представленными ссылками на "
+"пошаговые инструкции."
+
+msgid "Paysera Payments"
+msgstr "Paysera Платежи"
+
+msgid "Paysera Delivery"
+msgstr "Paysrera Доставка"
+
+msgid ""
+"This plugin enables you to accept online payments via cards, SMS, or the "
+"most popular banks in your country. It is easy to install and is used by "
+"thousands of online merchants across Europe."
+msgstr ""
+"Этот плагин позволяет Вам получать онлайн-платежи с помощью карт, SMS-"
+"сообщений, а также самых популярных банков вашей страны. Его легко "
+"установить, и им пользуются тысячи онлайн-продавцов по всей Европе."
+
+msgid ""
+"This plugin displays several different delivery companies that your buyers "
+"can choose from when ordering your products. No need to sign separate "
+"agreements with the courier companies – we have done it for you. Enjoy low "
+"delivery prices and quick support when needed."
+msgstr ""
+"Этот плагин показывает службы доставки, которые могут выбрать Ваши "
+"покупатели при оформлении заказа. Не надо подписывать отдельные договоры с "
+"курьерскими службами – мы сделали это за Вас. Наслаждайтесь низкими ценами "
+"доставки и быстрой помощью в случае необходимости."
+
+msgid "https://www.paysera.com/v2/en-GB/payment-gateway-checkout"
+msgstr "https://www.paysera.com/v2/ru-RU/platezhnyi-shliuz-checkout"
+
+msgid "Read more about it >"
+msgstr "Подробнее об этом >"
+
+msgid "https://developers.paysera.com/en/checkout/basic"
+msgstr "https://developers.paysera.com/ru/checkout/basic"
+
+msgid "Instructions >"
+msgstr "Инструкции >"
+
+msgid "https://www.paysera.com/v2/en-GB/checkout-delivery-service"
+msgstr "https://www.paysera.com/v2/ru-RU/checkout-dostavka"
+
+msgid "https://developers.paysera.com/en/delivery"
+msgstr "https://developers.paysera.com/ru/delivery"
+
+msgid "Need assistance?"
+msgstr "Нужна помощь?"
+
+msgid "Paysera client support in English is available 24/7!"
+msgstr ""
+"Клиенты Paysera могут связаться со службой поддержки на английском языке в "
+"любое время суток!"
+
+msgid "During working hours the support is available in 12 languages."
+msgstr "В рабочее время поддержка доступна на 12 языках."
+
+msgid "https://www.paysera.com/v2/en-GB/contacts"
+msgstr "https://www.paysera.com/v2/ru-RU/kontakty"
+
+msgid "Contact us >"
+msgstr "Свяжитесь с нами >"
+
+msgid ""
+"For the latest news about the Paysera services and status updates – follow "
+"us on %s and %s."
+msgstr ""
+"For the latest news about the Paysera services and status updates – follow "
+"us on %s and %s."
+
+msgid "Explore other services of Paysera"
+msgstr "Откройте для себя другие услуги Paysera"
+
+msgid "Alongside its' most popular services, Paysera also offers:"
+msgstr "Наряду с самыми популярными услугами Paysera также предлагает:"
+
+msgid "Currency exchange at competitive rates"
+msgstr "Обмен валюты по выгодным курсам"
+
+msgid "Enables instant Euro and cheap international transfers"
+msgstr "Мгновенные платежи в евро и дешёвые международные переводы"
+
+msgid "Provides LT, BGN, and RON %s for business and private clients"
+msgstr ""
+"Cчета формата %s для частных и бизнес-клиентов в Литве, Болгарии и Румынии,"
+
+msgid "https://www.paysera.com/v2/en/blog/iban-account"
+msgstr "https://www.paysera.com/v2/en/blog/iban-account"
+
+msgid "Issues %s that are compatible with %s and %s, and so much more."
+msgstr "%s, которые совместимы с %s и %s, и многое другое."
+
+msgid "https://www.paysera.com/v2/en-GB/payment-card-visa"
+msgstr "https://www.paysera.com/v2/ru-RU/platezhnaja-karta-visa"
+
+msgid "Visa cards"
+msgstr "Карты Visa"
+
+msgid "https://www.paysera.com/v2/en-GB/blog/googlepay-samsungpay"
+msgstr "https://www.paysera.com/v2/en-RU/blog/googlepay-samsungpay"
+
+msgid "https://www.paysera.com/v2/en-GB/apple-pay"
+msgstr "https://www.paysera.com/v2/ru-RU/apple-pay"
+
+msgid ""
+"All the main services can be easily managed via the %s which is available "
+"for download from the App Store, Google Play, and Huawei AppGallery."
+msgstr ""
+"Всеми основными услугами легко пользоваться с помощью %s, которое можно "
+"скачать на App Store, Google Play и Huawei AppGallery."
+
+msgid "https://www.paysera.com/v2/en-GB/mobile-application"
+msgstr "https://www.paysera.com/v2/ru-RU/mobilnoe-prilozhenie-paysera"
+
+msgid "Paysera mobile app"
+msgstr "мобильного приложения Рaysera"
+
+msgid "Thank you for choosing our services!"
+msgstr "Спасибо, что пользуетесь услугами Paysera!"
+
+msgid "Title"
+msgstr "Название"
+
+msgid "All popular payment methods"
+msgstr "Все популярные способы оплаты"
+
+msgid "Choose a payment method on the Paysera page"
+msgstr "Выберите способ оплаты на странице Paysera"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "List of payments"
+msgstr "Apmaksas veidu sarakts"
+
+msgid "Specific countries"
+msgstr "Определенные страны"
+
+msgid "Grid view"
+msgstr "Стиль"
+
+msgid "New Order Status"
+msgstr "Статус нового заказа"
+
+msgid "Paid Order Status"
+msgstr "Статус оплаченного заказа"
+
+msgid "Pending Checkout"
+msgstr "В ожидании оплаты"
+
+msgid "Buyer consent"
+msgstr "Согласие покупателя"
+
+msgid ""
+"Please be informed that the account information and payment initiation "
+"services will be provided to you by Paysera in accordance with these %s. By "
+"proceeding with this payment, you agree to receive this service and the "
+"service terms and conditions."
+msgstr ""
+"Сообщаем, что услуга информации по счету и инциированию платежа будет "
+"предоставлена предприятием Paysera согласно данным %s. Продолжая оплату, вы "
+"подтверждаете свое согласие с предоставлением и условиями услуги."
+
+msgid "https://www.paysera.com/v2/en-GB/legal/pis-rules-2020"
+msgstr "https://www.paysera.lt/v2/ru-LT/kontrakt/pravila-uip-2020"
+
+msgid "rules"
+msgstr "правилам"
+
+msgid "Ownership code"
+msgstr "Код собственности"
+
+msgid "Write your ownership code"
+msgstr "Напишите свой код собственности"
+
+msgid "Quality sign"
+msgstr "Знак качества"
+
+msgid "Main Settings"
+msgstr "Pamata iestatījumi"
+
+msgid "Extra Settings"
+msgstr "Дополнительные настройки"
+
+msgid "Order Status"
+msgstr "Статус заказа"
+
+msgid "Project Additions"
+msgstr "Дополнения к проекту"
+
+msgid "Paysera: Order checkout process is started"
+msgstr "Paysera: Статус неоплаченного заказа"
+
+msgid "Paysera: Customer came back to page"
+msgstr "Paysera: Статус создания нового заказа"
+
+msgid "Paysera: Callback order payment completed"
+msgstr "Paysera: Статус заказа после завершения оплаты"
+
+msgid "Paysera: Status changed to "
+msgstr "Paysera: Статус изменен на "
+
+msgid "Paysera Payment And Delivery"
+msgstr "Paysera Payment And Delivery"
+
+msgid "Payment confirmed with a callback"
+msgstr "Платеж подтвержден"
+
+msgid "Amounts do not match"
+msgstr "Суммы не совпадают"
+
+msgid "Currencies do not match"
+msgstr "Валюты не совпадают"
+
+msgid "Paysera plugin requires at least PHP "
+msgstr "Плагин Paysera требует как минимум PHP "
+
+msgid "Terminals"
+msgstr "Почтоматы"
+
+msgid "Plugin & Services."
+msgstr "плагин и сервисы."
+
+msgid ""
+"NEW! With the latest version, you can integrate delivery options into your e-"
+"shop. More about the %s "
+msgstr ""
+"НОВЫЙ! С последней версией вы можете интегрировать опции доставки в свой "
+"интернет-магазин. Подробнее о %s "
+
+msgid ""
+"Paysera: Delivery order creation failed, please create order manually in "
+"Paysera system"
+msgstr ""
+"Paysera: Не удалось создать заказ на доставку, пожалуйста, создайте заказ "
+"вручную в системе Paysera."
+
+msgid "More than 1 Paysera plugin active"
+msgstr "Активно более 1 плагина Paysera"
+
+msgid "Paysera: Chosen terminal location - %s, %s, %s"
+msgstr "Paysera: Выбранный посылочный автомат - %s, %s, %s"
+
+msgid "Error:"
+msgstr "Ошибка:"
+
+msgid "Hide shipping methods"
+msgstr "Скрыть способы доставки"
+
+msgid "Hide shipping methods that are above or under set weight limits"
+msgstr ""
+"Скрыть способы доставки, вес которых выше или ниже установленного предела"
+
+msgid "Cart weight is exceeded"
+msgstr "Вес корзины превышен"
+
+msgid "Cart weight is not sufficient"
+msgstr "Вес тележки недостаточен"
+
+msgid "The project ID and password fields must be filled with valid data"
+msgstr "Поля идентификатора проекта и пароля должны быть заполнены действительными данными."

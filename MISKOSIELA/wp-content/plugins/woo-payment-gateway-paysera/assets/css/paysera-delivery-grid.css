@@ -1,0 +1,20 @@
+#shipping_method li {
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 6px;
+    border: 2px outset transparent;
+}
+
+#shipping_method li label {
+    padding: 10px;
+}
+
+#shipping_method li label::before {
+    display: none;
+}
+
+.active-paysera-delivery {
+    border-color: #e7ebff !important;
+}
